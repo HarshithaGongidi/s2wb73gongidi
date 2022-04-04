@@ -16,5 +16,13 @@
   "main": "app.js",
   "author": "harshitha gongidi",
   "license": "ISC",
-  "description": ""
+  "description": "Added Readme - Lab 10\r https://s2wb73gongidi.herokuapp.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshithaGongidi/s2wb73gongidi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarshithaGongidi/s2wb73gongidi/issues"
+  },
+  "homepage": "https://github.com/HarshithaGongidi/s2wb73gongidi#readme"
 }
